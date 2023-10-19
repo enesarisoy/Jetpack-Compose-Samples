@@ -4,7 +4,7 @@ import com.ns.jetnews.data.Result
 import com.ns.jetnews.data.interests.InterestSection
 import com.ns.jetnews.data.interests.InterestsRepository
 import com.ns.jetnews.data.interests.TopicSelection
-import com.ns.jetnews.data.posts.utils.addOrRemove
+import com.ns.jetnews.utils.addOrRemove
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update

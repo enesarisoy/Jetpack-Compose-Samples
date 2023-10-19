@@ -2,7 +2,7 @@ package com.ns.jetnews.data.posts.impl
 
 import com.ns.jetnews.data.Result
 import com.ns.jetnews.data.posts.PostsRepository
-import com.ns.jetnews.data.posts.utils.addOrRemove
+import com.ns.jetnews.utils.addOrRemove
 import com.ns.jetnews.model.Post
 import com.ns.jetnews.model.PostsFeed
 import kotlinx.coroutines.Dispatchers
